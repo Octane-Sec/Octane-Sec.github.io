@@ -5,7 +5,7 @@ published: true
 
 I am a high school student with a 5-year foundation in Java logic and Data Structures. Transitioning from high-level programming to low-level security research, with a current focus on x86–64 CPU architecture. Currently engineering “Void the Hack,” a platform focused on decentralized verification and automated lab provisioning.
 
-[Link to another page](another-page).
+[Home](home).
 
 **I have the cisco ethical hacker certificate too**
 
